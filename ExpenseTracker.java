@@ -30,7 +30,7 @@ class ExpenseReportWithChart {
 
         // 建立報表框架
         JFrame reportFrame = new JFrame("財務報表");
-        reportFrame.setSize(400, 300);
+        reportFrame.setSize(500, 300);
         reportFrame.setLayout(new BorderLayout());
 
         // 建立報表內容
